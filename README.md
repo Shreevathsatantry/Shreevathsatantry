@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm an engineering student passionate about web development and continuous learning.<br>🌱 I’m currently learning: MERN stack.<br>👯 I’m looking to collaborate on: Web development projects that challenge creativity and technical skills.<br>⚡ Fun Fact: I'm also interested in exploring how to integrate art and technology in innovative ways!
+👋 Hi there! I'm an engineering student passionate about web development and continuous learning.<br>🌱 I’m currently learning: MERN stack.<br>👯 I’m looking to collaborate on: Web development projects that challenge creativity and technical skills.<br>
 
 
 ## 🌐 Socials:
